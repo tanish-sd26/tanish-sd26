@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tanisha Maurya 👋
 
-<!--
-**tanish-sd26/tanish-sd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer passionate about building practical web applications and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,python,firebase,mongodb,html,css,git,github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- **SOS Emergency Safety App**  
+  A web-based emergency alert system that allows users to send SOS alerts and share live location with emergency contacts.
+
+- **AI Job Application Tracker**  
+  A full-stack application that helps users track job applications and discover opportunities using a Python-based recommendation system.
+
+## 📚 Currently Learning
+- Advanced Full Stack Development
+- Scalable Backend Systems
+- System Design Fundamentals
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/tanisha-maurya-93069b2b6/
+- GitHub: https://github.com/tanish-sd26
+
+
