@@ -1,11 +1,17 @@
 # Hi, I'm Tanisha Maurya 👋
-
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+Practical+Web+Applications" />
+</p>
 Full Stack Developer passionate about building practical web applications and solving real-world problems through technology.
 
 ## 🚀 Tech Stack
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,python,firebase,mongodb,html,css,git,github" />
 </p>
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-sd26&layout=compact)
 
 ## 💻 Projects
 - **SOS Emergency Safety App**  
@@ -21,6 +27,6 @@ Full Stack Developer passionate about building practical web applications and so
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/tanisha-maurya-93069b2b6/
-- GitHub: https://github.com/tanish-sd26
+- Email: mauryatanisha824@gmail.com 
 
 
