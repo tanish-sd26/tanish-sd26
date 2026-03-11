@@ -1,6 +1,6 @@
 # Hi, I'm Tanisha Maurya 👋
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+React+%7C+Node.js+%7C;Building+Practical+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=1500&color=36BCF7&width=500&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+React+%7C+Node.js;Building+Practical+Web+Applications" />
 </p>
 
 ## 🚀 Tech Stack
@@ -20,9 +20,10 @@
   A full-stack application that helps users track job applications and discover opportunities using a Python-based recommendation system.
 
 ## 📚 Currently Learning
-- Advanced Full Stack Development
-- Scalable Backend Systems
-- System Design Fundamentals
+
+- ⚛️ Advanced Full Stack Development  
+- ⚙️ Scalable Backend Systems  
+- 🏗️ System Design Fundamentals
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/tanisha-maurya-93069b2b6/
