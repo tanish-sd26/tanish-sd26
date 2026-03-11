@@ -1,6 +1,6 @@
 # Hi, I'm Tanisha Maurya 👋
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+React+%7C+Node.js;Building+Practical+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+React+%7C+Node.js+%7C;Building+Practical+Web+Applications" />
 </p>
 
 ## 🚀 Tech Stack
