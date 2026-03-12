@@ -26,7 +26,10 @@
 - 🏗️ System Design Fundamentals
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/tanisha-maurya-93069b2b6/
-- Email: mauryatanisha824@gmail.com 
-
+<a href="https://www.linkedin.com/in/tanisha-maurya-93069b2b6/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+</a>
+<a href="mailto:mauryatanisha824@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+</a>
 
