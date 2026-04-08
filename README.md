@@ -7,8 +7,8 @@
 </p>
 
 ## 🚀 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,python,firebase,mongodb,html,css,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,ts,express,python,cpp,mysql,firebase,mongodb,html,css,tailwind,git,github" />
 </p>
 
 ## 💻 Projects
