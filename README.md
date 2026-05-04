@@ -15,6 +15,7 @@
 🚀 Exploring AI integrations & scalable backend systems <br>
 📍 India | Open to Job opportunities & internships
 
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,ts,express,python,cpp,mysql,firebase,mongodb,html,css,tailwind,git,github" />
