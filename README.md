@@ -6,16 +6,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=1500&color=36BCF7&width=500&lines=A+Passionate+Full+Stack+Developer;JavaScript+%7C+Python+%7C+React+%7C+Node.js;Building+Practical+Web+Applications" />
 </p>
 
-## 🚀 Tech Stack
+## 🚀 About Me
+
+<img align="right" alt="coding" width="250" src="C:\Users\tanis\Downloads\developer.gif">
+
+💻 Full Stack Developer (MERN + Python) <br>
+🎯 Focused on building real-world, job-ready projects <br>
+🚀 Exploring AI integrations & scalable backend systems <br>
+📍 India | Open to Job opportunities & internships
+
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,ts,express,python,cpp,mysql,firebase,mongodb,html,css,tailwind,git,github" />
 </p>
 
+
 ## 💻 Projects
-- **SOS Emergency Safety App**  
+- **SOS Emergency Safety App**
+  🚨 Real-time alert system with location sharing  
   A web-based emergency alert system that allows users to send SOS alerts and share live location with emergency contacts.
 
-- **AI Job Application Tracker**  
+- **AI Job Application Tracker**
+  🤖 Track & optimize job applications using AI
   A full-stack application that helps users track job applications and discover opportunities using a Python-based recommendation system.
 
 ## 📚 Currently Learning
@@ -31,4 +43,3 @@
 <a href="mailto:mauryatanisha824@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
-
