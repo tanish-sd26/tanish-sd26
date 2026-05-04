@@ -14,8 +14,8 @@
 🎯 Focused on building real-world, job-ready projects <br>
 🚀 Exploring AI integrations & scalable backend systems <br>
 📍 India | Open to Job opportunities & internships
-
-
+<br>
+ <br>
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,ts,express,python,cpp,mysql,firebase,mongodb,html,css,tailwind,git,github" />
@@ -23,12 +23,12 @@
 
 
 ## 💻 Projects
-- **SOS Emergency Safety App**
-  🚨 Real-time alert system with location sharing  
+- **SOS Emergency Safety App** <br>
+  🚨 Real-time alert system with location sharing   <br>
   A web-based emergency alert system that allows users to send SOS alerts and share live location with emergency contacts.
 
-- **AI Job Application Tracker**
-  🤖 Track & optimize job applications using AI
+- **AI Job Application Tracker**   <br>
+  🤖 Track & optimize job applications using AI   <br>
   A full-stack application that helps users track job applications and discover opportunities using a Python-based recommendation system.
 
 ## 📚 Currently Learning
