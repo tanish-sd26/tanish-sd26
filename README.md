@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="250" src="C:\Users\tanis\Downloads\developer.gif">
+<img align="right" alt="coding" src="https://github.com/tanish-sd26/tanish-sd26/blob/main/developer.gif">
 
 💻 Full Stack Developer (MERN + Python) <br>
 🎯 Focused on building real-world, job-ready projects <br>
