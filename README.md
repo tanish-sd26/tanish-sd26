@@ -11,7 +11,7 @@
 <img align="right" alt="coding" width="250" src="https://github.com/tanish-sd26/tanish-sd26/blob/main/developer.gif">
 
 💻 Full Stack Developer (MERN + Python) <br>
-🎯 Focused on building real-world, Innovation and Developed solution-oriented projects <br>
+🎯 Focused on building real-world, developed solution-oriented and innovative projects <br>
 🚀 Exploring AI integrations & scalable backend systems <br>
 📍 India | Open to Job opportunities & internships
 <br>
