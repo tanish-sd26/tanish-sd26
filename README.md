@@ -47,4 +47,6 @@
 <a href="https://leetcode.com/u/taru18/" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode" height="30" alt="LeetCode" />
 </a>
-
+<a href="https://www.hackerrank.com/profile/tanishamauryaa19" target="_blank">
+ <img src="https://cdn.simpleicons.org/hackerrank" height="30" alt="HackerRank" />
+</a>
