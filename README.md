@@ -27,10 +27,10 @@
   🚨 Real-time alert system with location sharing   <br>
   A web-based emergency alert system that allows users to send SOS alerts and share live location with emergency contacts.
 
-- **AI Job Application Tracker**   <br>
-  🤖 Track & optimize job applications using AI   <br>
-  A full-stack application that helps users track job applications and discover opportunities using a Python-based recommendation system.
-
+- **Smart Progress Tracker**   <br>
+  📊 Track goals, tasks, and daily progress efficiently    <br>
+   A productivity-focused web application that allows users to track goals, manage daily tasks, and analyze their progress using interactive charts and dashboards.
+  
 ## 📚 Currently Learning
 
 - ⚛️ Advanced Full Stack Development  
