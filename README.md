@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="250" src="https://github.com/tanish-sd26/tanish-sd26/blob/main/developer.gif">
 
-💻 Full Stack Developer (MERN + Python) <br>
+💻 Full Stack Developer <br>
 🎯 Focused on building real-world, developed solution-oriented and innovative projects <br>
 🚀 Exploring AI integrations & scalable backend systems <br>
 📍 India | Open to Job opportunities & internships
@@ -44,3 +44,7 @@
 <a href="mailto:mauryatanisha824@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
+<a href="https://leetcode.com/u/taru18/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" height="30" alt="LeetCode" />
+</a>
+
