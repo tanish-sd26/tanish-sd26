@@ -10,8 +10,8 @@
 
 <img align="right" alt="coding" width="250" src="https://github.com/tanish-sd26/tanish-sd26/blob/main/developer.gif">
 
-💻 Full Stack Developer <br>
-🎯 Focused on building real-world, developed solution-oriented and innovative projects <br>
+💻 Full Stack Developer | MERN Stack Developer <br>
+🎯 I work primarily with **React, Next.js, Node.js, Express, MongoDB, and Firebase**, with experience in authentication, REST APIs, dashboards, and deployment. <br>
 🚀 Exploring AI integrations & scalable backend systems <br>
 📍 India | Open to Job opportunities & internships
 <br>
@@ -31,12 +31,6 @@
   📊 Track goals, tasks, and daily progress efficiently    <br>
    A productivity-focused web application that allows users to track goals, manage daily tasks, and analyze their progress using interactive charts and dashboards.
   
-## 📚 Currently Learning
-
-- ⚛️ Advanced Full Stack Development  
-- ⚙️ Scalable Backend Systems  
-- 🏗️ System Design Fundamentals
-
 ## 📫 Connect With Me
 <a href="https://www.linkedin.com/in/tanisha-maurya-93069b2b6/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
