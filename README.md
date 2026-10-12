@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tanisha Maurya 👋</h1>
+<h1 align="center">Hi, I'm Tanisha Maurya 👋</h1> ![Profile Views](https://komarev.com/ghpvc/?username=tanish-sd26&color=blueviolet&style=flat)
 
 <br/>
 
