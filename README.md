@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Tanisha Maurya 👋</h1> ![Profile Views](https://komarev.com/ghpvc/?username=tanish-sd26&color=blueviolet&style=flat)
-
-<br/>
+<h1 align="center">Hi, I'm Tanisha Maurya 👋</h1> <br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4030&pause=1510&color=36BCF7&width=500&lines=Full+Stack+Developer+|+MERN+Stack+Developer;JavaScript+%7C+Express.js+%7C+React+%7C+Node.js;Building+Practical+Web+Applications" />
