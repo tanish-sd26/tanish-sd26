@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me
-
+![Profile Views](https://komarev.com/ghpvc/?username=tanish-sd26&color=blueviolet&style=flat)
 <img align="right" alt="coding" width="250" src="https://github.com/tanish-sd26/tanish-sd26/blob/main/developer.gif">
 
 💻 Full Stack Developer | MERN Stack Developer <br>
