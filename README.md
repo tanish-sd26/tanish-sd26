@@ -10,7 +10,7 @@
 💻 Full Stack Developer | MERN Stack Developer <br>
 🎯 I work primarily with **React, Next.js, Node.js, Express, MongoDB, and Firebase**, with experience in authentication, REST APIs, dashboards, and deployment. <br>
 🚀 Exploring AI integrations & scalable backend systems <br>
-📍 India | Open to Job opportunities & internships
+📌 Open to Job opportunities & internships
 <br>
  <br>
 ## 🛠️ Tech Stack
